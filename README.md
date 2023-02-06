@@ -1,2 +1,3 @@
 # Julia-Practice
-Julia Practice
+
+## Learning Julia 
